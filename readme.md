@@ -10,3 +10,8 @@ Some description!
 
 ## Subheader 
 宝贝妮：“啊～～～ 逃走～～～～～”
+
+## Local Development 
+1. open index.html in your browser.
+
+
